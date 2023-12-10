@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "title1": "Welcome to Reformed Ark 100x!",
+          "text1": "Make sure to join our discord to stay up to date!\nTo access our shop press F2 and to report press F3!",
           "imageurl": "https://raw.githubusercontent.com/ArkPlays/Reformed-ARK/main/Reformed%20Rust.png"
         }
       },
