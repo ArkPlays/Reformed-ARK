@@ -34,15 +34,9 @@
         }
       },
       {
-        "link2": {
+        "link7": {
           "text": "Website",
           "url": "https://reformedark.premiumark.net/"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
         }
       }
     ]
